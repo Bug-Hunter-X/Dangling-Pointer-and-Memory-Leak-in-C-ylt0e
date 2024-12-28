@@ -1,0 +1,1 @@
+This repository demonstrates a common C bug involving dangling pointers and memory leaks. The provided code shows a simple example where memory is allocated but not freed, leading to a memory leak. The solution offers a corrected version that addresses this issue, providing a safe and efficient way to manage memory.
